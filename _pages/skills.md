@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-Programming: Python, Java, C++, Shell, Javascript, Matlab
-Data Science Tools: Python (Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn), SPSS, R
-Package Manager: Conda, Pip
-Deep Learning Framework: Pytorch, Tensorflow, Keras
-Big Data Framework: Spark, Hadoop, Hive
-Database: Oracle, MySQL, PostgreSQL, MongoDB
-Cloud Platform: AWS, Microsoft Azure, Google Cloud, OpenStack
-OS: Linux, MacOS, Windows
-Version Control: Github
-Virtualization Tools: VMWare Workstation, Docker
-Parallel Computing: Horovod, CUDA, Distributed-Tensorflow
+<br/>Programming: Python, Java, C++, Shell, Javascript, Matlab<br/>
+<br/>Data Science Tools: Python (Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn), SPSS, R<br/>
+<br/>Package Manager: Conda, Pip<br/>
+<br/>Deep Learning Framework: Pytorch, Tensorflow, Keras<br/>
+<br/>Big Data Framework: Spark, Hadoop, Hive<br/>
+<br/>Database: Oracle, MySQL, PostgreSQL, MongoDB<br/>
+<br/>Cloud Platform: AWS, Microsoft Azure, Google Cloud, OpenStack<br/>
+<br/>OS: Linux, MacOS, Windows<br/>
+<br/>Version Control: Github<br/>
+<br/>Virtualization Tools: VMWare Workstation, Docker<br/>
+<br/>Parallel Computing: Horovod, CUDA, Distributed-Tensorflow<br/>
