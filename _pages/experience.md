@@ -11,7 +11,6 @@ redirect_from:
     Hillsboro, Oregon<br/>
     Deep Learning Software Engineering Intern [May, 2018 - August, 2018]<br/>
     Intel AI Blog: <a href="https://www.intel.ai/multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors/">Research Blog</a>
-    Mentor: <a href="https://www.linkedin.com/in/mohammad-ashraf-bhuiyan-11725b16/" target="_blank">Md. Ashraf Bhuiyan</a><br/>
 
 
 <br/>
