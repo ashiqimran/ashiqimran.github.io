@@ -22,4 +22,5 @@ Machine Learning, Deep Learning, Computer Vision, Data Science, Artifical Intell
 <br/><b>Version Control:</b> Github
 <br/><b>Virtualization Tools:</b> VMWare Workstation, Docker
 <br/><b>Parallel Computing:</b> Horovod, CUDA, Distributed-Tensorflow
-<br><b>Miscellaneous: Agile, Test Driven Development, JIRA</b><br>
+<br><b>SDLC:</b> Agile, Test Driven Development
+<br><b>Issue Tracking:</b> JIRA
