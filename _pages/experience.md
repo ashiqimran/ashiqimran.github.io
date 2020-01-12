@@ -15,12 +15,12 @@ redirect_from:
 
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.uta.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.uta.edu/" target="_blank"><font color="brown" size="5">University of Texas, Arlington</font></a></b></span><br/>
     Machine Learning and Deep Learning Researcher [August, 2017 - Present]<br/>
     Advisor: <a href="http://vlm1.uta.edu/~athitsos/" target="_blank">Dr. Vassilis Athitsos</a>, Lab: <a href="http://vlm1.uta.edu/~athitsos/vlm/" target="_blank">Vision, Learning and Mining (VLM) Lab</a><br/>
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.uta.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.uta.edu/" target="_blank"><font color="brown" size="5">University of Texas, Arlington</font></a></b></span><br/>
     Graduate Teaching Assistant [August, 2016 - Present]<br/>
     Advisor: <a href="http://vlm1.uta.edu/~athitsos/" target="_blank">Dr. Vassilis Athitsos</a>, Lab: <a href="http://vlm1.uta.edu/~athitsos/vlm/" target="_blank">Vision, Learning and Mining (VLM) Lab</a><br/>
 
