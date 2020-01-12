@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
-name                     : &name "Wasi Uddin Ahmad"
-description              : &description "personal description"
+name                     : &name "Ashiq Imran"
+description              : &description "CS PhD Candidate at UTA"
 url                      : ""  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "wasiahmad/wasiahmad.github.io"
+repository               : "ashiqimran/ashiqimran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,43 +80,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wasi Uddin Ahmad"
+  name             : "Ashiq Imran"
   avatar           : "wasiahmad.png"
-  bio              : "Ph.D. student at University of California, Los Angeles (UCLA)"
-  employer         : 
-  location         : "Los Angeles, CA, US"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
-  email            : "wasiahmad@ucla.edu"
-  researchgate     : "https://www.researchgate.net/profile/Wasi_Ahmad3"
+  bio              : "Ph.D. student at University of Texas, Arlington (UTA)"
+  employer         :
+  location         : "DFW Area, TX, US"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=iuzg4ksAAAAJ&hl=en"
+  email            : "ashiq.imran@mavs.uta.edu"
+  researchgate     : "https://www.researchgate.net/profile/ashiqimran"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "wasiahmad07"
+  facebook         :
   foursquare       :
-  github           : "wasiahmad"
+  github           : "ashiqimran"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "ahmadwasi"
+  linkedin         : "ashiqimran"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 5352399/wasi-ahmad
+  stackoverflow    : 7032887/ashiq-imran
   steam            :
   tumblr           :
-  twitter          : "ahmadwasi"
+  twitter          : "ashiqimran"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://dblp.org/pers/hd/a/Ahmad:Wasi_Uddin"
+  dblp             : 
   wikipedia        :
-  semanticscholar  : "https://www.semanticscholar.org/author/Wasi-Uddin-Ahmad/38123220"
+  semanticscholar  :
 
 
 # Reading Files
