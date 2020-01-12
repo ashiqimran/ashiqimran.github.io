@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. student at the University of Texas at Arlington (UTA). My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that (1) reduce the amount of labeled data required to train models from scratch; and (2) adapt to new domains with fewer labeled examples.
+I am a Ph.D. candidate at the University of Texas at Arlington (UTA). My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains from previous learned domains.
 </p>
 
 <p align="justify">
-I have received my MS of Computer Science from the North Carolina A&T State University and BS in Computer Science and Engineering from the Bangladesh University of Engineering and Technology. In my free time, I like to play various indoor and outdoor sports and also solve puzzles and problems to improve my programming skills.
+I have received my MS in Computer Science from the North Carolina A&T State University and BS in Computer Science and Engineering from the Bangladesh University of Engineering and Technology. In my free time, I like to play various indoor and outdoor sports and also tackle challenging problems. 
 </p>
