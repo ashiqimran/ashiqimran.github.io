@@ -2,21 +2,18 @@
 main:
   - title: "Professional Experience"
     url: /experience/
-    
+
   - title: "Education"
-    url: /cv/
-    
+    url: /education/
+
   - title: "Research"
     url: /year-archive/
-    
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-    
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=iuzg4ksAAAAJ&hl=en"
+
+  - title: "Skills"
+    url: /skills/
+
   - title: "Miscellaneous"
     url: /services/
-    
-
-    
