@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 ---
 
-My Research focuses on developing new techniques that (1) reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains from previous learned domains. 
+My Research focuses on developing new techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains. 
 
 <br/>
     <span style="color:black; font-size:17px"><b><font color="brown" size="5">Domain Adaptive Transfer Learning on Visual Attention Aware Data Augmentation for Fine Grained Visual Categorization</font></b></span><br/>
