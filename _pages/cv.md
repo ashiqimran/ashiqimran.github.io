@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#You can download my [cv]#(../files/cv_wasi_ahmad.pdf) or [resume]#(../files/resume_wasi_ahmad.pdf).
+
 
 <br/>
     <span style="color:black; font-size:17px"><b><font color="brown" size="5">University of Texas, Arlington </font></b></span><br/>
