@@ -13,5 +13,5 @@ I am a Ph.D. candidate at the University of Texas at Arlington (UTA). My researc
 </p>
 
 <p align="justify">
-I have received my MS in Computer Science from the North Carolina A&T State University and BS in Computer Science and Engineering from the Bangladesh University of Engineering and Technology. In my free time, I like to play various indoor and outdoor sports and also tackle challenging problems. 
+I have received my MS in Computer Science from the North Carolina A&T State University and BS in Computer Science and Engineering from the Bangladesh University of Engineering and Technology. In my free time, I like to play various indoor and outdoor sports and also tackle challenging problems.
 </p>
