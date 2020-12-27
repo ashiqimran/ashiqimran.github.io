@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. candidate at the University of Texas at Arlington (UTA). My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains.
+Currently, I am working as a Deep Learning Software Engineering intern at Intel Corporation. I am a Ph.D. candidate at the University of Texas at Arlington (UTA). My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains.
 </p>
 
 <p align="justify">
