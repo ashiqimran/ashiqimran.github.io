@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 ---
 
-My Research focuses on developing new techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains. 
+My Research focuses on developing new techniques that reduce the dependency on large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains. 
 
 <br/>
     <span style="color:black; font-size:17px"><b><font color="brown" size="5">Adaptive Feature Norm for Unsupervised Subdomain Adaptation</font></b></span><br/>
