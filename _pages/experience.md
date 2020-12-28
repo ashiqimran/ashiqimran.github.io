@@ -9,6 +9,11 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.intel.com/" target="_blank"><font color="brown" size="5">Intel Corporation</font></a></b></span><br/>
     Hillsboro, Oregon<br/>
+    Deep Learning Software Engineering Intern [May, 2020 - January, 2021]<br/>
+    
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.intel.com/" target="_blank"><font color="brown" size="5">Intel Corporation</font></a></b></span><br/>
+    Hillsboro, Oregon<br/>
     Deep Learning Software Engineering Intern [May, 2018 - August, 2018]<br/>
     Intel AI Blog: <a href="https://www.intel.ai/multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors/">Research Blog</a>
 
