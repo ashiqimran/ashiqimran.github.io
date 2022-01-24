@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Personal Homepage"
 title_separator          : "-"
-name                     : &name "Ashiq Imran"
-description              : &description "CS PhD Candidate at UTA"
+name                     : &name "Ashiq Imran, PhD"
+description              : &description "Deep Learning Software Engineer at Intel AI"
 url                      : ""  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ashiqimran/ashiqimran.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ashiq Imran"
   avatar           : "ashiqimran.jpg"
-  bio              : "Ph.D. candidate at University of Texas, Arlington (UTA)"
+  bio              : "PhD in Computer Science (Major in AI)"
   employer         :
-  location         : "DFW Area, TX, US"
+  location         : "Portland, Oregon, USA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=iuzg4ksAAAAJ&hl=en"
   email            : "ashiq.imran@mavs.uta.edu"
