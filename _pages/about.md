@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Currently, I am working as a Deep Learning Software Engineer at Intel AI. Before joining full time at Intel AI, I was a deep learning software engineering intern  for nearly an year. I have completed PhD in Computer Science (Major in AI) from the University of Texas at Arlington (UTA) in 2021. My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains. 
+Currently, I am working as a Deep Learning Software Engineer at Intel AIA **(Artificial Intelligence and Analytics)**. Before joining full time at Intel AIA, I worked as a deep learning software engineering intern for nearly a year. I have completed PhD in Computer Science (Major in AI) from the University of Texas at Arlington (UTA) in 2021. My research focus spans the areas of deep learning, machine learning and computer vision. My research goal is to develop domain adaptive transfer learning techniques that reduce the dependency for large-scale annotated data to train Machine Learning models from scratch as well as adapting to new domains by transfer learning from source domains. 
 </p>
 
 <p align="justify">
